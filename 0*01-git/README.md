@@ -1,1 +1,2 @@
-learning SE with ALXis so sweat
+my first readme
+Learning SE with ALX is sweat
